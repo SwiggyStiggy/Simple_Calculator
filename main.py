@@ -2,7 +2,6 @@
 
 
 VE = ValueError
-TE = TypeError
 
 #Class with adding, subtracting, multiplying, dividing
 
